@@ -1,1 +1,1 @@
-[{"name": "B.duck", "text": "сайт имба", "id": 1}]
+[{"name": "B.duck", "text": "сайт имба", "id": 1}, {"name": "B.duck", "text": "сайт имба", "id": 2}]
