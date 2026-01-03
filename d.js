@@ -19,5 +19,12 @@
     "password_hash": "46ccd083e73b038b3f7389c6b99627cd5e6cd70e2092351125758a5f34b9ee75",
     "ip": "104.28.198.246",
     "registration_date": "2026-01-03T15:36:01.911078"
+  },
+  {
+    "id": 4,
+    "username": "Polkpolk",
+    "password_hash": "5c3bce08f1a8517ee676f6185095c0ade29d203aeb1f0df8282d7eae2c67b6b0",
+    "ip": "216.106.189.168",
+    "registration_date": "2026-01-03T18:10:08.883505"
   }
 ]
