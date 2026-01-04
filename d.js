@@ -26,5 +26,12 @@
     "password_hash": "5c3bce08f1a8517ee676f6185095c0ade29d203aeb1f0df8282d7eae2c67b6b0",
     "ip": "216.106.189.168",
     "registration_date": "2026-01-03T18:10:08.883505"
+  },
+  {
+    "id": 5,
+    "username": "pepexqw1",
+    "password_hash": "2c622bdc9e7e3510158f36178ec7aea08558bec185d8dc2d11e15d463ddf96b0",
+    "ip": "80.251.226.236",
+    "registration_date": "2026-01-04T09:07:31.361987"
   }
 ]
