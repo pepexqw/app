@@ -1,14 +1,1 @@
-{
-  "1": {
-    "id": 1,
-    "name": "Новости",
-    "description": "Самые последние и самые интересные новости",
-    "creator_id": 1,
-    "creator_name": "pepexqw",
-    "created_at": "2026-01-04T18:15:42.845146",
-    "members": [
-      1
-    ],
-    "posts_count": 0
-  }
-}
+
